@@ -9,7 +9,7 @@ The app is meant to run locally in a web browser.
 
 To use the app on your local machine, simply clone the git repository using:
 
-`git clone https://github.com/mdemichele/credits-tracker.git`
+`git clone https://github.com/Kavita1306/Credit-Tracker-APP.git`
 
 Once the project is cloned onto your local machine, make sure you have all the dependencies installed by running:
 
